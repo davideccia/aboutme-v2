@@ -52,7 +52,8 @@
         "Laravel",
         "MySQL",
         "Git"
-      ]
+      ],
+      "achievements": []
     },
     {
       "name": "SDS s.r.l.",
@@ -74,7 +75,8 @@
         "Laravel",
         "MySQL",
         "Git"
-      ]
+      ],
+      "achievements": []
     }
   ],
   "education": [
@@ -216,7 +218,8 @@
       "isActive": true,
       "description": "A ready to use template for Traefik reverse proxy.",
       "highlights": [],
-      "url": "https://github.com/davideccia/traefik-template"
+      "url": "https://github.com/davideccia/traefik-template",
+      "github": "https://github.com/davideccia/traefik-template"
     }
   ]
 }
