@@ -1,4 +1,4 @@
-> ![WARNING]
+> [!WARNING]
 >
 > This is not a template!
 
