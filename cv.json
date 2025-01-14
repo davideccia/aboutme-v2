@@ -214,12 +214,20 @@
   ],
   "projects": [
     {
-      "name": "Traefik template",
+      "name": "About Me V2",
       "isActive": true,
-      "description": "A ready to use template for Traefik reverse proxy.",
+      "description": "Current version of my vCV",
       "highlights": [],
-      "url": "https://github.com/davideccia/traefik-template",
-      "github": "https://github.com/davideccia/traefik-template"
+      "url": "https://github.com/davideccia/aboutme-v2",
+      "github": "https://github.com/davideccia/aboutme-v2"
+    },
+    {
+      "name": "About Me",
+      "isActive": false,
+      "description": "First version of my vCV",
+      "highlights": [],
+      "url": "https://github.com/davideccia/aboutme",
+      "github": "https://github.com/davideccia/aboutme"
     }
   ]
 }
