@@ -223,7 +223,7 @@
     },
     {
       "name": "About Me",
-      "isActive": false,
+      "isActive": true,
       "description": "First version of my vCV",
       "highlights": [],
       "url": "https://github.com/davideccia/aboutme",
